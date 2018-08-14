@@ -2,3 +2,9 @@ h3 {
   font-style: italic;
   color: #3A9FE5;
 }
+
+.footer {
+  text-align: center;
+  font-style: italic;
+  font-weight: lighter;
+}
