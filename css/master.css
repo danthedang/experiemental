@@ -8,3 +8,15 @@ h3 {
   font-style: italic;
   font-weight: lighter;
 }
+
+.sectionText {
+  font-weight: bold;
+}
+
+.divSection {
+  font-style: italic;
+}
+
+.spanSection {
+  color: red;
+}
