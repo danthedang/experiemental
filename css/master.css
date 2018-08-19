@@ -3,20 +3,48 @@ h3 {
   color: #3A9FE5;
 }
 
+.elementClassPractice {
+  font-weight: bold;
+}
+
+.spanExperiment {
+  font-style: italic;
+}
+
+.spanPractice {
+  color: red;
+}
+
+.floatLeft {
+  float: right;
+}
+
+.column {
+  width: 25%;
+  float: left;
+  padding: 1px;
+}
+
+.sideNav {
+  width: 100px;
+  height: 100%;
+  background-color: black;
+  color: white;
+  top: 0;
+  bottom: 0;
+  padding: 5px;
+  text-align: center;
+  position: fixed;
+  z-index: 1;
+}
+
+.main {
+  margin-left: 100px;
+  padding-left: 20px;
+}
+
 .footer {
   text-align: center;
   font-style: italic;
   font-weight: lighter;
-}
-
-.sectionText {
-  font-weight: bold;
-}
-
-.divSection {
-  font-style: italic;
-}
-
-.spanSection {
-  color: red;
 }
